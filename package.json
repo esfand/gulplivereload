@@ -1,0 +1,26 @@
+{
+  "name": "livereloadgulp",
+  "version": "0.0.0",
+  "description": "Gulp Livereload",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:esfand/fake.git"
+  },
+  "author": "esfand",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/esfand/fake/issues"
+  },
+  "homepage": "https://github.com/esfand/fake",
+  "devDependencies": {
+    "gulp": "~3.5.2",
+    "express": "~3.4.8",
+    "connect-livereload": "~0.3.2",
+    "tiny-lr": "0.0.5",
+    "gulp-livereload": "~1.1.1"
+  }
+}
